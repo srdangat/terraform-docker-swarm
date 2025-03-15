@@ -3,11 +3,11 @@ variable "aws_region" {
 }
 
 variable "key_name" {
-  default = "mumabi"
+  default = "devops"
 }
 
 variable "key_path" {
-  default = "C:/Users/sanke/Downloads/mumbai.pem"
+  default = "C:/Users/sanke/Downloads/devops.pem"
 }
 
 variable "instance_type" {
